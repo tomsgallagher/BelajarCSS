@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: url("https://akcdn.detik.net.id/visual/2020/07/06/naruto-1_169.png?w=650");
+    background-size: content;
+    background-repeat: no-repeat;
+}
+.flex-container
+displ
+body{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: baseline;
+    align-content: stretch;
+    background-color:pink ;
+    background-size: cover;
+}
